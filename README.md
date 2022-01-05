@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ellypham
-- 🌱 I’m a student at the University of Houston-Downtown pursueing a Master of Science in Data Analytics degree 
+- 🌱 I’m a student at the University of Houston-Downtown, pursuing a Master of Science in Data Analytics degree 
 - 👀 I love data
 - 💞️ I’m open to talk about data and looking for collaboration for any DA Projects
 - 📫 Reach me via https://www.linkedin.com/in/elly-pham-15018193/ 
