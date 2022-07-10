@@ -1,4 +1,4 @@
-<h3 (center) >
+<h3 class="center" >
  Hey there, I’m Elly. Welcome to my Github! 
 </h3>
 
