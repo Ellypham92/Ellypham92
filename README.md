@@ -1,7 +1,7 @@
 # Hi there, I’m Elly 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="150"/>
 </div>
 
  🌱 I feel fascinated for the unique combination of logic and technology in Data Analytics. I am excited by the process of finding meaningful insights from raw data. 
