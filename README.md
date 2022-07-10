@@ -1,4 +1,4 @@
-<h3 class="center" >
+<h3 style="text-align: center;" >
  Hey there, I’m Elly. Welcome to my Github! 
 </h3>
 
