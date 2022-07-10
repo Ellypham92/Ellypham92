@@ -1,6 +1,6 @@
-<h3 style="text-align: center;" >
+<div id="header" align="center">
  Hey there, I’m Elly. Welcome to my Github! 
-</h3>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
