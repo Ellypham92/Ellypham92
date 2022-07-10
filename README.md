@@ -24,7 +24,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 📊 Analytics:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Java" width="40" height="40"/>&nbsp;
