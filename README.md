@@ -1,17 +1,14 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
+</div>
 <h3 id="header" align="center">
  Hey there, I’m Elly. Welcome to my Github! 
 </h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
-</div>
-
-
-
 ### :woman_technologist: About Me :
-- 🌱 a Data Anayst in Houston, Texas
--  I am pursuing a Master of Science in Data Analytics degree at University of Houston-Downtown
-- 💞️ When not working with data I travel, dance, garden and read books. I have visited over 10 countries, and 5 States in the US
+- A Data Analyst in Houston, Texas
+- Pursuing a Master of Science in Data Analytics at University of Houston-Downtown
+- When not working with data I travel, dance, garden and read books. I have visited over 10 countries, and 6 States in the US
 - 📫 Get in touch with me via [MyLinkedin](https://www.linkedin.com/in/elly-pham-15018193/) 
 
 <div id="badges">
