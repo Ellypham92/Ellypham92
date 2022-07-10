@@ -25,11 +25,10 @@
 ---
 
 ### 📊 Independent Projects
-
-Under construction
+Coming SOON
 
 ### 🎯 Academic Projects
-Under construction
+Coming SOON
 
 <!---
 Ellypham92/Ellypham92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
