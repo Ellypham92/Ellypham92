@@ -5,7 +5,7 @@
  Hey there, I’m Elly. Welcome to my Github! 
 </h3>
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me 
 - A Data Analyst living in Houston, Texas
 - Pursuing a Master of Science in Data Analytics at University of Houston-Downtown
 - When not working with data I travel, dance, garden and read books. I have visited over 10 countries, and 6 States in the US
@@ -24,11 +24,11 @@
 
 ---
 
-### 📊 View My Project:
+### 📊 Independent Projects
 
 
 
-### 🎯 View My Academic Project:
+### 🎯 Academic Projects:
 <!---
 Ellypham92/Ellypham92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
