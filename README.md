@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
 </div>
----
-# Hi there, I’m Elly 👋
+<br/>
+# Hi there, I’m Elly 👋 
  🌱 I feel fascinated for the unique combination of logic and technology in Data Analytics. I am excited by the process of finding meaningful insights from raw data. 
 ### :woman_technologist: About Me :
 -  I am pursuing a Master of Science in Data Analytics degree at University of Houston-Downtown
