@@ -1,10 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="300"/>
+  <img src="https://user-images.githubusercontent.com/64395120/178131417-e359eb88-6422-4565-a767-743595094de2.png" width="500" height="300"/>
 </div>
 <h3 id="header" align="center">
  Hey there, I’m Elly. Welcome to my Github! 
 </h3>
+![image](https://user-images.githubusercontent.com/64395120/178131417-e359eb88-6422-4565-a767-743595094de2.png)
 
+https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif
 ### :woman_technologist: About Me :
 - A Data Analyst living in Houston, Texas
 - Pursuing a Master of Science in Data Analytics at University of Houston-Downtown
