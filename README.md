@@ -1,10 +1,12 @@
+<h2>
+Hi there, I’m Elly 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
+<h2>
+  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
 </div>
-<h1>
-Hi there, I’m Elly 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
-<h1>
+
 
  🌱 I feel fascinated for the unique combination of logic and technology in Data Analytics. I am excited by the process of finding meaningful insights from raw data. 
 ### :woman_technologist: About Me :
