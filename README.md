@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/64395120/178131417-e359eb88-6422-4565-a767-743595094de2.png" width="500" height="300"/>
+  <img src="https://images.app.goo.gl/jqZ2wL4LLkC55FVd6" width="500" height="300"/>
 </div>
 <h3 id="header" align="center">
  Hey there, I’m Elly. Welcome to my Github! 
