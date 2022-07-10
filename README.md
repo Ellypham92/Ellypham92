@@ -24,12 +24,11 @@
 
 ---
 
-### 📊 Analytics:
+### 📊 View My Project:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Java" width="40" height="40"/>&nbsp;
-</div>
 
+
+### 🎯 View My Academic Project:
 <!---
 Ellypham92/Ellypham92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
