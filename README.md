@@ -1,11 +1,9 @@
-# Hi there, I’m Elly 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
 </div>
-
+# Hi there, I’m Elly 👋
  🌱 I feel fascinated for the unique combination of logic and technology in Data Analytics. I am excited by the process of finding meaningful insights from raw data. 
- 🧑🏼‍🏭
+### :woman_technologist: About Me :
 -  I am pursuing a Master of Science in Data Analytics degree at University of Houston-Downtown
 - 💞️ When not working with data I travel, dance, garden and read books. I have visited over 10 countries, and 5 States in the US
 - 📫 Get in touch with me via [MyLinkedin](https://www.linkedin.com/in/elly-pham-15018193/) 
