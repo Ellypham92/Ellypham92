@@ -1,3 +1,5 @@
+# 👋 Welcome to my Github! My name is Elly.
+
 - 👋 Hi, I’m @Ellypham
 - 🌱 I am pursuing a Master of Science in Data Analytics degree at University of Houston-Downtown
 - 👀 I love data
