@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Kaggle-258ffa?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-258ffa?style=for-the-badge&logo=k&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
 
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
 
 <!---
 Ellypham92/Ellypham92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
