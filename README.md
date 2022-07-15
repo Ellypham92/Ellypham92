@@ -25,7 +25,7 @@
 ---
 
 ### 📊 Independent Projects
-####Machine Learning 
+#### Machine Learning 
 
 
 ### 🎯 Academic Projects
