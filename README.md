@@ -25,7 +25,8 @@
 ---
 
 ### 📊 Independent Projects
-Coming SOON
+####Machine Learning 
+
 
 ### 🎯 Academic Projects
 Coming SOON
