@@ -25,11 +25,13 @@
 ---
 
 ### 📊 Independent Projects
-#### Machine Learning 
-
-
-### 🎯 Academic Projects
 Coming SOON
+
+
+### 🎯 Machine Learning Projects
+   •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br> 
+   •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
+   •[SMS spam analysis](#SMS-spam-analysis) <br>
 
 <!---
 Ellypham92/Ellypham92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
