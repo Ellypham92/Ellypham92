@@ -6,8 +6,8 @@
 </h3>
 
 ### :woman_technologist: About Me 
-- A Data Analyst living in Houston, Texas
-- Pursuing a Master of Science in Data Analytics at University of Houston-Downtown
+- I am a Data Analyst living in Houston, Texas
+- I am pursuing a Master of Science in Data Analytics at University of Houston-Downtown
 - When not working with data I travel, dance, garden and read books. I have visited over 10 countries, and 6 States in the US
 - Let's connect and find me on: 
 <div id="badges">
@@ -25,11 +25,12 @@
 ---
 
 ### 📊 Independent Projects
-Coming SOON
+UNDER CONTRUCTION
 
 
 ### 🎯 Machine Learning Projects
-   •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br> 
+UNDER CONSTRUCTION..
+   :pushpin:[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br> 
    •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
    •[SMS spam analysis](#SMS-spam-analysis) <br>
 
