@@ -31,8 +31,8 @@ UNDER CONTRUCTION
 ### 🛠️ Machine Learning Projects
 UNDER CONSTRUCTION..
     <summary>[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase)</summary>
-   •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
-   •[SMS spam analysis](#SMS-spam-analysis) <br>
+    <summary>[Twitter sentiment analysis](#Twitter-sentiment-analysis)</summary>
+    <summary>[SMS spam analysis](#SMS-spam-analysis)</summary>
 
 <!---
 Ellypham92/Ellypham92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
