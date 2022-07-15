@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 Independent Projects
+### 📊 Analytics Projects
 UNDER CONTRUCTION
 
 
