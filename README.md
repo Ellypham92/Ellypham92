@@ -30,8 +30,7 @@ UNDER CONTRUCTION
 
 ### 🛠️ Machine Learning Projects
 UNDER CONSTRUCTION..
-<summary>Title 1</summary>
-   :pushpin:[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br> 
+    <summary>[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase)</summary>
    •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
    •[SMS spam analysis](#SMS-spam-analysis) <br>
 
