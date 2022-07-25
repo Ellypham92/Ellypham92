@@ -30,7 +30,7 @@ UNDER CONTRUCTION
 
 ### 🛠️ Machine Learning Projects
 UNDER CONSTRUCTION..
-    <summary>[R: Predicting Loan Purchase And Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/ProjectCode.R)</summary>
+    <summary>[R: Predicting Loan Purchase And Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/README.md)</summary>
     <summary>[R: Twitter Sentiment Analysis](https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R) </summary>
     <summary>[R: Sms Spam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R) </summary>
 
