@@ -9,7 +9,6 @@
 - I am a Data Analyst living in Houston, Texas
 - Pursuing a Master of Science in Data Analytics at University of Houston-Downtown
 - When not working with data I travel, dance, garden and read books. I have visited over 10 countries, and 14 States in the US
-- Let's connect and find me on: 
 
 ---
 
@@ -21,7 +20,7 @@
 ### 📊 Analytics Projects
    - [Tableau: Implication of COVID-19 on the U.S Job Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
 
-### Find me
+### :house_with_garden: Find me
 <div id="badges">
   <a href="https://www.linkedin.com/in/elly-pham-15018193/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="95"/>
