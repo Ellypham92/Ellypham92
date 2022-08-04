@@ -32,7 +32,7 @@ Adding..
 
 ### 📊 Analytics Projects
 Adding..
-- [Tableau: Implication of COVID-19 on the U.S Job Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
+   - [Tableau: Implication of COVID-19 on the U.S Job Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
 
 
 <!---
