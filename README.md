@@ -24,7 +24,7 @@
 ### Database Projects
   - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
 
-### :house_with_garden: Find me
+### :house_with_garden: Find Me
 <div id="badges">
   <a href="https://www.linkedin.com/in/elly-pham-15018193/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="95"/>
