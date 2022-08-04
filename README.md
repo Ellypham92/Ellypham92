@@ -22,7 +22,7 @@
    - [Tableau: Implication of COVID-19 on the U.S Job Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
 
 ### Database Projects
-  - [MySQL: Design Database Management System for Financial Opportunity Center] (https://github.com/Ellypham92/sql-data-analysis)
+  - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
 
 ### :house_with_garden: Find me
 <div id="badges">
