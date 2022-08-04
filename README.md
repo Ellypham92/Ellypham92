@@ -24,15 +24,16 @@
 
 ---
 
-### 📊 Analytics Projects
-UNDER CONTRUCTION
-
-
 ### 🛠️ Machine Learning Projects
-UNDER CONSTRUCTION..
+Adding.. 
     <summary>[R: Predicting Loan Purchase And Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/README.md)</summary>
     <summary>[R: Twitter Sentiment Analysis](https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R) </summary>
-    <summary>[R: Sms Spam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R) </summary>
+    <summary>[R: SMS Spam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R) </summary>
+
+### 📊 Analytics Projects
+Adding..
+<summary>[Tableau: Implication of COVID-19 on the U.S Job Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
+
 
 <!---
 Ellypham92/Ellypham92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
