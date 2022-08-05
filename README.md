@@ -19,7 +19,7 @@
    - [R: SMS Spam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R) 
 
 ### 📊 Analytics Projects
-   - [Tableau: Implication of COVID-19 on the U.S Job Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
+   - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
    - [Python, Tableau: What makes a country happy?](https://github.com/Ellypham92/world-happiness-/blob/main/World%20happiness.ipynb) *in development
 ### Database Projects
   - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
