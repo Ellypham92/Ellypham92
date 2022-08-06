@@ -20,7 +20,7 @@
 
 ### 📊 Analytics Projects
    - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
-   - [Python, Tableau: What makes a country happy?](https://github.com/Ellypham92/world-happiness-/blob/main/World%20happiness.ipynb) *in development
+   - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-/blob/main/World%20happiness.ipynb) *in development
 ### :file_folder: Database Projects
   - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
 
