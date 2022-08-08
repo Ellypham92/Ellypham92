@@ -29,15 +29,16 @@
   <a href="https://www.linkedin.com/in/elly-pham-15018193/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="95"/>
   </a>
+    <a href="https://public.tableau.com/app/profile/elly.pham">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge" width="85"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCe9iz4aZDOmoOjSGmRDkBnQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="90"/>
   </a>
   <a href="https://www.kaggle.com/ellypham">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge" width="80"/>
   </a>
-    <a href="https://public.tableau.com/app/profile/elly.pham">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge" width="85"/>
-  </a>
+  
 </div>
 
 <!---
