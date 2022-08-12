@@ -8,8 +8,8 @@
 ### :woman_technologist: About Me 
 - Data Analyst living in Houston, Texas
 - Pursuing a Master of Science in Data Analytics at University of Houston-Downtown
-- Love traveling, dancing, gardening and reading books
-- Been to over 10 countries and 14 States and really enjoyed their culture and food 
+- Love traveling, dancing, gardening and reading books (Harry Potter is one of my favorite book)
+- Been to over 10 countries (Japan is my favorite country) and 14 States (I love New York) and really enjoyed their culture and food
 
 ---
 ### 📊 Analytics Projects
