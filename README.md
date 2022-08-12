@@ -12,15 +12,15 @@
 - Been to over 10 countries and 14 States and really enjoyed their culture and food 
 
 ---
-
+### 📊 Analytics Projects
+   - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
+   - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
+   
 ### 🛠️ Machine Learning Projects
    - [R: Predicting Loan Purchase And Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/README.md)
    - [R: Twitter Sentiment Analysis](https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R) 
    - [R: SMS Spam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R) 
 
-### 📊 Analytics Projects
-   - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
-   - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
 ### :file_folder: Database Projects
   - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
 
