@@ -12,7 +12,7 @@
 - Been to over 10 countries (Japan is my favorite country) and 14 States (I love New York) and really enjoyed their culture and food
 
 ---
-### :white_check_mark:Independent Projects
+### :white_check_mark: Independent Projects
  - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
 ### 📊 Analytics Projects
  - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
