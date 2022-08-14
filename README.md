@@ -12,10 +12,10 @@
 - Been to over 10 countries (Japan is my favorite country) and 14 States (I love New York) and really enjoyed their culture and food
 
 ---
+### :white_check_mark:Independent Projects
+ - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
 ### 📊 Analytics Projects
-   - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
-   - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
-   
+ - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
 ### 🛠️ Machine Learning Projects
    - [R: Predicting Loan Purchase And Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/README.md)
    - [R: Twitter Sentiment Analysis](https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R) 
