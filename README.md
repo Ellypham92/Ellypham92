@@ -11,7 +11,7 @@
 - Been to over 10 countries (Japan is my favorite country) and 14 States (I love New York)
 
 ---
-### :bar_chart: Independent Projects
+### :bulb: Independent Projects
  - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
  
 ### 📊 Analytics Projects
