@@ -13,6 +13,7 @@
 ---
 ### :bulb: Independent Projects
  - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
+ - [Python: Scape real time stock data]
  
 ### 📊 Analytics Projects
  - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
