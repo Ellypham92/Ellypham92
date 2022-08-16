@@ -15,19 +15,21 @@
  - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
  - [Python: Scape real time stock data](https://github.com/Ellypham92/web-scrape-real-time-stock-data) *in progress
  
-### 📊 Analytics Projects
- - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
- 
+ ###  :sparkles: Statistics for Data Science
+- [R: Gentoo Penguins Measurements](https://github.com/Ellypham92/statistics-linear-regression)
+
 ### 🛠️ Machine Learning Projects
    - [R: Predicting Loan Purchase And Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/README.md)
    - [R: Twitter Sentiment Analysis](https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R) 
    - [R: SMS Spam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R) 
-   
+ 
 ### :file_folder: Database Projects
   - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
   - [MySQL: Weekly Danny's Challenge](https://github.com/Ellypham92/sql-data-analysis/blob/main/weekly%20challenge/mysql%20danny's%20dinner%20code)
-###  :sparkles: Statistics for Data Science
-- [R: Gentoo Penguins Measurements](https://github.com/Ellypham92/statistics-linear-regression)
+
+### 📊 Analytics Projects
+ - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
+ 
 ### :house_with_garden: Find Me
 <div id="badges">
   <a href="https://www.linkedin.com/in/elly-pham-15018193/">
