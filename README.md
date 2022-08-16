@@ -25,7 +25,7 @@
    
 ### :file_folder: Database Projects
   - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
-
+  - [MySQL: Weekly Danny's Challenge]
 ###  :sparkles: Statistics for Data Science
 - [R: Gentoo Penguins Measurements](https://github.com/Ellypham92/statistics-linear-regression)
 ### :house_with_garden: Find Me
