@@ -15,19 +15,19 @@
  - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
  - [Python: Scape real time stock data](https://github.com/Ellypham92/web-scrape-real-time-stock-data) *in progress
  
- ###  :sparkles: Statistics for Data Science
+ ###  :sparkles: Statistical Modeling 
 - [R: Gentoo Penguins Measurements](https://github.com/Ellypham92/statistics-linear-regression)
 
-### 🛠️ Machine Learning Projects
+### 🛠️ Machine Learning Modeling
    - [R: Predicting Loan Purchase And Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/README.md)
    - [R: Twitter Sentiment Analysis](https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R) 
    - [R: SMS Spam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R) 
  
-### :file_folder: Database Projects
+### :file_folder: SQL Analysis 
   - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
   - [MySQL: Danny's 8 Week Challenge](https://github.com/Ellypham92/sql-data-analysis/blob/main/weekly%20challenge/mysql%20danny's%20dinner%20code)
 
-### 📊 Analytics Projects
+### 📊 Visual Analysis
  - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
  
 ### :house_with_garden: Find Me
