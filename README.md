@@ -23,7 +23,7 @@
    - [R: Twitter Sentiment Analysis](https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R) 
    - [R: SMS Spam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R) 
  
-### :file_folder: Database and SQL for Analysis
+### :file_folder: SQL for Analysis
   - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
   - [MySQL: Danny's 8 Week Challenge](https://github.com/Ellypham92/sql-data-analysis/blob/main/weekly%20challenge/mysql%20danny's%20dinner%20code)
 
