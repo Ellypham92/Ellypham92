@@ -14,7 +14,7 @@
 ### :bulb: Independent Projects
  - [Python, Tableau Prep, Tableau Desktop: What makes a country happy?](https://github.com/Ellypham92/world-happiness-)
  - [Python: Scrape real time stock data](https://github.com/Ellypham92/web-scrape-real-time-stock-data) 
- - [Python: Predict stock price direction using real time scraped data](https://github.com/Ellypham92/predict-stock-price-using-scraped-data/blob/main/README.md) **in progress
+ - [Python: Predict stock price direction using real time scraped data (August 31)](https://github.com/Ellypham92/predict-stock-price-using-scraped-data/blob/main/README.md) 
  
  ###  :sparkles: Statistical Modeling 
 - [R: Gentoo Penguins Measurements](https://github.com/Ellypham92/statistics-linear-regression)
