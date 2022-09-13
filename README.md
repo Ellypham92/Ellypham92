@@ -32,7 +32,7 @@
  - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
  
 ### :gift: Study Resources
-- [R: Applied Time Series]
+- R: Applied Time Series ** updating
 
 ### :house_with_garden: Find Me
 <div id="badges">
