@@ -26,12 +26,12 @@
  
 ### :file_folder: SQL for Analysis
   - [MySQL: Design Database Management System for Financial Opportunity Center](https://github.com/Ellypham92/sql-data-analysis)
-  - [MySQL: Danny's 8 Week Challenge](https://github.com/Ellypham92/sql-data-analysis/blob/main/weekly%20challenge/mysql%20danny's%20dinner%20code)
 
 ### 📊 Visual Analysis
  - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
- 
-### :gift: Study Resources
+
+### :gift: Study Resources and Community Activities
+- [MySQL: Danny's 8 Week Challenge](https://github.com/Ellypham92/sql-data-analysis/blob/main/weekly%20challenge/mysql%20danny's%20dinner%20code)
 - R: Applied Time Series Analysis ** modifying
 
 ### :house_with_garden: Find Me
