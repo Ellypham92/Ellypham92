@@ -31,6 +31,9 @@
 ### 📊 Visual Analysis
  - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
  
+### :gift: Study Resources
+- [R: Applied Time Series]
+
 ### :house_with_garden: Find Me
 <div id="badges">
   <a href="https://www.linkedin.com/in/elly-pham-15018193/">
