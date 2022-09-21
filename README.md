@@ -31,7 +31,7 @@
  - [Tableau: Implication of COVID-19 on the U.S Labor Market ](https://www.youtube.com/watch?v=fF28YtMubZ4) </summary>
 
 ### :gift: Study Resources & Community Activities
-- [R: Statistical Approach for Time Series](https://github.com/Ellypham92/applied-time-series-analysis)
+- [R: Statistical Approaches for Time Series](https://github.com/Ellypham92/applied-time-series-analysis)
 - [MySQL: Danny's 8 Week Challenge](https://github.com/Ellypham92/sql-data-analysis/blob/main/weekly%20challenge/mysql%20danny's%20dinner%20code)
 
 ### :house_with_garden: Find Me
