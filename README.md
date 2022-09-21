@@ -32,7 +32,7 @@
 
 ### :gift: Study Resources and Community Activities
 - [MySQL: Danny's 8 Week Challenge](https://github.com/Ellypham92/sql-data-analysis/blob/main/weekly%20challenge/mysql%20danny's%20dinner%20code)
-- [R: Applied Time Series Analysis](https://github.com/Ellypham92/applied-time-series-analysis)
+- [R: Statistical Approach for Time Series](https://github.com/Ellypham92/applied-time-series-analysis)
 
 ### :house_with_garden: Find Me
 <div id="badges">
