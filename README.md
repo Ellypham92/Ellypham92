@@ -6,7 +6,7 @@
 </h3>
 
 ### :woman_technologist: About Me 
-- Data Analyst living in Houston, Texas
+- Business Data Analyst
 - Pursuing a Master of Science in Data Analytics at University of Houston-Downtown
 - Been to over 10 countries (Japan is my favorite country) and 15 States (I love New York)
 
