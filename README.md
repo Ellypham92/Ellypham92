@@ -6,9 +6,9 @@
 </h3>
 
 ### :woman_technologist: About Me 
-- Data Analyst 
+- Data Analyst at World Wide Technology
 - Master of Science in Data Analytics at University of Houston-Downtown
-- Been to over 10 countries (Japan is my favorite country) and numerous States (I love New York)
+- Enjoy traveling and been to 10+ countries (Japan is my favorite) and numerous States 
 
 ---
 ### :bulb: Independent Projects
