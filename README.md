@@ -18,7 +18,7 @@
  
  ###  :sparkles: Statistical Modeling 
 - [R: Gentoo Penguins Measurements](https://github.com/Ellypham92/statistics-linear-regression)
-- [R: Predict crude oil price]()
+- [R: Predict crude oil price](https://github.com/Ellypham92/Crude-Oil-Price)
 
 ### 🛠️ Machine Learning Modeling
    - [R: Predicting Loan Purchase And Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/README.md)
