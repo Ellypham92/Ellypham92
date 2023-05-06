@@ -13,7 +13,7 @@
 ---
 
 ###  :sparkles: Statistical Modeling 
-- [R: Predict crude oil price](https://github.com/Ellypham92/Crude-Oil-Price)
+- [R: Predict Crude Oil Price](https://github.com/Ellypham92/Crude-Oil-Price)
 - [R: Gentoo Penguins Measurements](https://github.com/Ellypham92/statistics-linear-regression)
 
 ### :bulb: Independent Projects
