@@ -9,7 +9,7 @@
 - Analyst at World Wide Technology
 - Master of Science in Data Analytics at University of Houston-Downtown
 - Enjoy traveling and have had the opportunity to visit some foreign countries (Japan is my favorite) 
-- I feel fascinated with the unique combination of logic and technology in Data Analytics and am having a long-commitment to data journey. I am excited by the process of finding meaningful insights from data. Here are some of the projects I've worked on:
+- I feel fascinated with the unique combination of logic and technology in Data Analytics and am having a long-term commitment to the data journey. I am excited by the process of finding meaningful insights from data. Here are some of the projects I've worked on:
 
 ---
 
