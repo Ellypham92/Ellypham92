@@ -8,8 +8,8 @@
 ### :woman_technologist: About Me 
 - Analyst at World Wide Technology
 - Master of Science in Data Analytics at University of Houston-Downtown
-- Enjoy traveling and been to 10+ countries (Japan is my favorite) and numerous States 
-- I feel fascinated for the unique combination of logic and technology in Data Analytics and having a long-commitment to data journey. I am excited by the process of finding meaningful insights from data. Here are some of the projects I've worked on, some of which are long-term projects:
+- Enjoy traveling and have had the opportunity to visit some foreign countries (Japan is my favorite) 
+- I feel fascinated with the unique combination of logic and technology in Data Analytics and am having a long-commitment to data journey. I am excited by the process of finding meaningful insights from data. Here are some of the projects I've worked on:
 
 ---
 
